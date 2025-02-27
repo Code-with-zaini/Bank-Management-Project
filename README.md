@@ -35,4 +35,3 @@ The system can generate account statements for specified time periods.
 - Process account approval requests
 - Generate system-wide reports
 - Monitor suspicious activities
-- 
